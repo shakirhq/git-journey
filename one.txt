@@ -1,0 +1,15 @@
+Windows Commands:
+
+dir - View files and folders in your current location.
+dir /a - Show all files, including hidden and system files.
+cd - Navigate to specific directories.
+mkdir - Create a new directory.
+ren - Rename file or directory.
+del - Delete files.
+exit - Closes the Command Prompt window.
+cls - Clears all text from the CMD window.
+help - View available CMD commands and their descriptions.
+type null > - Create a file.
+echo.> - Create a file.
+start - Open files, folders, URLs.
+start . - Open current folder
