@@ -12,4 +12,5 @@ help - View available CMD commands and their descriptions.
 type null > - Create a file.
 echo.> - Create a file.
 start - Open files, folders, URLs.
-start . - Open current folder
+start . - Open current folder.
+cd ../ - Opens parent folder.
